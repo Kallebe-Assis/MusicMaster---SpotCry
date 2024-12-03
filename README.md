@@ -1,4 +1,4 @@
-# MusicMaster---SpotCry
+# Musicry---SpotCry
 Projeto de Aplicação de Música (Spotify Clone) com React e API:
 
 Este projeto tem como objetivo criar uma aplicação web interativa e funcional, inspirada no Spotify, permitindo que usuários acessem, gerenciem e interajam com uma biblioteca de músicas através de uma interface moderna e responsiva. A aplicação será construída utilizando React no front-end, com Styled Components para estilização dinâmica, e JWT (JSON Web Token) para validação e autenticação do usuário.
